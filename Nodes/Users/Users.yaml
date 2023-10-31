@@ -1,0 +1,6 @@
+Name: Users
+Type: FolderType
+Children:
+- Name: Guest
+  Id: g=61150812cc40443b93babda7160c3868
+  Type: UserType
